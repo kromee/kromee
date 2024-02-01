@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
  # Acerca de mi
-- 🔭 Soy Eduardo, mi familia y amigos me dicen Lalo, actualmente trabajo como desarrollador .net, la primera vez que programé fue en la universidad en el lenguaje C. Desde entonces me he mantenido en constante preparación logrando el título de licenciatura, ingeniería y un Master en Análitica e inteligencia de negocios, todo es relacionado a la informática.
+- 🔭 Soy Eduardo, mi familia y amigos me dicen Lalo, actualmente trabajo como desarrollador .net, la primera vez que programé fue en la universidad en lenguaje C. Desde entonces me he mantenido en constante preparación logrando el título de licenciatura, ingeniería y un Master en Análitica e inteligencia de negocios, todo es relacionado a la informática.
 - ⚡ Soy orgullosamente poblano y de sus sabores gastronómicos, fan de lo tencnológico y de la música regional mexicana.
 - 🌱 Como programador .Net con mas de 10 años de experiencia eh desarrollado diferentes aplicativos de software aplicados a procesos empresariales. 
 - 👯 Actualmente estoy aprendiendo nuevos lenguajes de programación como React y Paython con el objetivo de aplicar ciencia de datos.
